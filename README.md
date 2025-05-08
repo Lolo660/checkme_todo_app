@@ -29,5 +29,5 @@ CheckMe is a beautifully designed and efficient todo list app built with Flutter
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/checkme_todo_app.git
+git clone https://github.com/Lolo660/checkme_todo_app.git
 cd checkme_todo_app
