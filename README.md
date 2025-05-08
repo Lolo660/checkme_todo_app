@@ -1,16 +1,33 @@
-# checkme_todo_app
+# ✅ CheckMe Todo App
 
-A new Flutter project.
+CheckMe is a beautifully designed and efficient todo list app built with Flutter and Riverpod. It helps users manage tasks with categories, due dates, and themes (Light, Dark, System).
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- ✅ Add, delete, and manage todos
+- 🎯 Organize by category: School, Personal, Urgent, etc.
+- 📅 Pick due dates for todos
+- 🌗 Switch themes: Light, Dark, or System default
+- 🔍 Filter and search functionality
+- 💾 State management via Riverpod
 
-A few resources to get you started if this is your first Flutter project:
+## 🧑‍💻 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter 3.29.3+
+- Dart 3.7.2+
+- Riverpod (State Management)
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (3.29.3 or higher)
+- Dart SDK (3.7.2 or higher)
+- Android Studio or VSCode
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/checkme_todo_app.git
+cd checkme_todo_app
